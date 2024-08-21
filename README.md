@@ -14,9 +14,9 @@ This is a template for creating applications using Next.js 14 (app directory).
 
 2. Using `create-next-app`
 
-```bash
-npx create-next-app -e https://github.com/cezarmolinar/Next14_Boilerplate
-```
+   ```bash
+   npx create-next-app -e https://github.com/cezarmolinar/Next14_Boilerplate my-project-name
+   ```
 
 3. Using `git clone`
 
