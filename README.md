@@ -4,17 +4,27 @@ This is a template for creating applications using Next.js 14 (app directory).
 
 [Try it on CodeSandbox](https://githubbox.com/cezarmolinar/Next14_Boilerplate)
 
-## How to Use
+## 🎯 Getting started
 
-### Use the template with create-next-app
+### 1. Clone this template in one of three ways
 
-To create a new project based on this template using `create-next-app`, run the following command:
+1. Using this repository as template
+
+   ![use-this-template-button](https://github.com/Skolaczk/next-starter/assets/76774237/f25c9a29-41de-4865-aa38-c032b9346169)
+
+2. Using `create-next-app`
 
 ```bash
 npx create-next-app -e https://github.com/cezarmolinar/Next14_Boilerplate
 ```
 
-### Install dependencies
+3. Using `git clone`
+
+   ```bash
+   git clone https://github.com/Skolaczk/next-starter my-project-name
+   ```
+
+### 2. Install dependencies
 
 You can use one of them `npm`, `yarn`, `pnpm`, `bun`, Example using `npm`:
 
@@ -22,7 +32,7 @@ You can use one of them `npm`, `yarn`, `pnpm`, `bun`, Example using `npm`:
 npm install
 ```
 
-### Run the development server
+### 4. Run the development server
 
 ```bash
 npm run dev
